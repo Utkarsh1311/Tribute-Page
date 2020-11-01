@@ -17,7 +17,7 @@ nav {
     color: white;
     justify-content: space-between;
     align-items: center;
-    padding: 1rem 2rem ;
+    padding: 0.9rem 2rem ;
 }
 
 .logo {
@@ -67,4 +67,27 @@ nav ul {
 
 .main-img img{
     width: 100%;
+}
+
+/* ABOUT */
+#about {
+    display: grid;
+    padding: 0.6rem;
+}
+
+.about-text-container {
+    padding: 3rem;
+    background-color: rgb(27, 26, 26);
+    border-radius: 5px; 
+    font-size: 1.3rem;
+
+}
+#albert {
+    font-size: 2.2rem;
+    font-weight: bolder;
+}
+
+#photoelectric {
+    font-size: 1.5rem;
+    font-weight: bold;
 }
