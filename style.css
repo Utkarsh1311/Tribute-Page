@@ -51,6 +51,7 @@ nav ul {
 }
 
 /* MAIN-IMG */
+
 .main-img {
 	width: 100%;
 	overflow-x: hidden;
@@ -60,8 +61,8 @@ nav ul {
 	position: absolute;
 	color: white;
 	font-size: 7rem;
-	top: 450px;
-	left: 80px;
+	top: 30rem;
+	left: 5.3rem;
 	line-height: 5.3rem;
 	z-index: 1;
 }
@@ -71,13 +72,14 @@ nav ul {
 }
 
 /* ABOUT */
+
 #about {
 	padding: 0.6rem;
 	margin: 2rem;
 }
 
 .about-text-container {
-	padding:1rem 3rem 3rem 3rem;
+	padding: 1rem 3rem 3rem 3rem;
 	background-color: rgb(27, 26, 26);
 	border-radius: 5px;
 	font-size: 1.1rem;
@@ -97,7 +99,6 @@ nav ul {
 	font-size: 1.3rem;
 	font-weight: bold;
 }
-
 
 /* LIFE */
 
