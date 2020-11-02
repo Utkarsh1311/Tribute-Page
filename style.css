@@ -77,14 +77,19 @@ nav ul {
 }
 
 .about-text-container {
-	padding: 3rem;
+	padding:1rem 3rem 3rem 3rem;
 	background-color: rgb(27, 26, 26);
 	border-radius: 5px;
 	font-size: 1.1rem;
 }
 
-#albert {
+#about-heading {
+	text-align: center;
 	font-size: 2rem;
+}
+
+#albert {
+	font-size: 1.6rem;
 	font-weight: bolder;
 }
 
@@ -93,16 +98,9 @@ nav ul {
 	font-weight: bold;
 }
 
-#about-image {
-	display: grid;
-	padding: 2rem;
-	grid-template-columns: 1fr 2fr;
-	grid-template-rows: 1fr 1fr;
-	gap: 2rem;
-	overflow-x: hidden;
-	background-color: rgb(27, 26, 26);
-}
-#about-image img {
-	width: 100%;
-	border-radius: 10px;
+
+/* LIFE */
+
+#life {
+	
 }
