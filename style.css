@@ -85,9 +85,10 @@ nav ul {
 	font-size: 1.1rem;
 }
 
-#about-heading {
+.section-heading {
 	text-align: center;
-	font-size: 2rem;
+	font-size: 3rem;
+	margin-bottom: 0.5rem;
 }
 
 #albert {
@@ -103,5 +104,16 @@ nav ul {
 /* LIFE */
 
 #life {
-	
+	padding: 0.6rem;
+	margin: 2rem;
+}
+
+.life-container {
+	display: grid;
+	grid-template-columns: 5fr 1fr;
+	gap: 2rem;
+	padding: 3rem;
+	background-color: rgb(27, 26, 26);
+	border-radius: 5px;
+	font-size: 1.1rem;
 }
