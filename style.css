@@ -52,12 +52,12 @@ nav ul {
 
 /* MAIN-IMG */
 
-.main-img {
+#img-div {
 	width: 100%;
 	overflow-x: hidden;
 }
 
-.img-text {
+#image-caption{
 	position: absolute;
 	color: white;
 	font-size: 7rem;
@@ -67,7 +67,7 @@ nav ul {
 	z-index: 1;
 }
 
-.main-img img {
+#image {
 	width: 100%;
 }
 
