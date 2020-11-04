@@ -57,7 +57,7 @@ nav ul {
 	overflow-x: hidden;
 }
 
-#image-caption{
+#image-caption {
 	position: absolute;
 	color: white;
 	font-size: 7rem;
@@ -83,6 +83,7 @@ nav ul {
 	background-color: rgb(27, 26, 26);
 	border-radius: 5px;
 	font-size: 1.1rem;
+	margin: 1rem;
 }
 
 .section-heading {
@@ -116,4 +117,13 @@ nav ul {
 	background-color: rgb(27, 26, 26);
 	border-radius: 5px;
 	font-size: 1.1rem;
+	margin: 1rem;
+}
+
+.life-img {
+	border-radius: 0.2rem;
+}
+
+.caption {
+	text-align: center;
 }
