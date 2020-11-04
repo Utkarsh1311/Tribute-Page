@@ -79,6 +79,8 @@ nav ul {
 }
 
 .about-text-container {
+	display: grid;
+	align-items: center;
 	padding: 1rem 3rem 3rem 3rem;
 	background-color: rgb(27, 26, 26);
 	border-radius: 5px;
@@ -111,6 +113,7 @@ nav ul {
 
 .life-container {
 	display: grid;
+	align-items: center;
 	grid-template-columns: 5fr 1fr;
 	gap: 2rem;
 	padding: 3rem;
@@ -126,4 +129,28 @@ nav ul {
 
 .caption {
 	text-align: center;
+}
+
+/* WORKS */
+
+#works {
+	padding: 0.6rem;
+	margin: 2rem;
+}
+
+.work-container {
+	display: grid;
+	align-items: center;
+	grid-template-columns: 2fr 1fr;
+	gap: 2rem;
+	padding: 3rem;
+	background-color: rgb(27, 26, 26);
+	border-radius: 5px;
+	font-size: 1.1rem;
+	margin: 1rem;
+}
+
+.work-img {
+	width: 100%;
+	border-radius: 0.2rem;
 }
