@@ -154,3 +154,9 @@ nav ul {
 	width: 100%;
 	border-radius: 0.2rem;
 }
+
+.work-head {
+	font-size: 1.5rem;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
