@@ -164,7 +164,10 @@ nav ul {
 
 
 /* AWARDS */
-
+#awards {
+	padding: 0.6rem;
+	margin: 2rem;
+}
 .awards-container {
 	display: grid;
 	align-items: center;
@@ -175,4 +178,12 @@ nav ul {
 	border-radius: 5px;
 	font-size: 1.1rem;
 	margin: 1rem;
+}
+
+.award-pic {
+	width: 50%;
+}
+
+.many-more {
+	font-size: 2rem;
 }
