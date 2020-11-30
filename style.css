@@ -161,3 +161,18 @@ nav ul {
 	text-transform: uppercase;
 	text-decoration: underline;
 }
+
+
+/* AWARDS */
+
+.awards-container {
+	display: grid;
+	align-items: center;
+	grid-template-columns: 2fr 1fr;
+	gap: 2rem;
+	padding: 3rem;
+	background-color: rgb(27, 26, 26);
+	border-radius: 5px;
+	font-size: 1.1rem;
+	margin: 1rem;
+}
